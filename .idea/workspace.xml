@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb51276-1956-483c-8b74-204e7449f2c3" name="Changes" comment="Adicionando Docker">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/CatalogApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/repositories/ProductRepositoryTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/resources/ProductResourceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/resources/ProductResourceTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/services/ProductServiceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/services/ProductServiceTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/tests/Factory.java" beforeDir="false" />
+    <list default="true" id="7eb51276-1956-483c-8b74-204e7449f2c3" name="Changes" comment="Extornando entities">
+      <change beforePath="$PROJECT_DIR$/docker-spring-boot.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +69,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\CatalogSecurity-master\src\main\java\com\cleberfeitosa\catalog" />
       <recent name="C:\Users\teclab\Downloads\CatalogSecurity-master" />
     </key>
   </component>
@@ -176,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701308936598</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Extornando entities">
+      <created>1701309324469</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701309324469</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Extornando entities">
+      <created>1701309506906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701309506906</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +209,9 @@
     <MESSAGE value="sem test" />
     <MESSAGE value="Excluindo Docker" />
     <MESSAGE value="Adicionando Docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Docker" />
+    <MESSAGE value="Jar" />
+    <MESSAGE value="Extornando entities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extornando entities" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
