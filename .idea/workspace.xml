@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb51276-1956-483c-8b74-204e7449f2c3" name="Changes" comment="Excluindo Docker">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="7eb51276-1956-483c-8b74-204e7449f2c3" name="Changes" comment="Adicionando Docker">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/CatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/repositories/ProductRepositoryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/resources/ProductResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/resources/ProductResourceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/services/ProductServiceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/services/ProductServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cleberfeitosa/catalog/tests/Factory.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701308683834</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adicionando Docker">
+      <created>1701308936598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701308936598</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +199,8 @@
     <MESSAGE value="novo comentario" />
     <MESSAGE value="sem test" />
     <MESSAGE value="Excluindo Docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excluindo Docker" />
+    <MESSAGE value="Adicionando Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Docker" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
