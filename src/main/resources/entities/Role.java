@@ -1,4 +1,4 @@
-package com.cleberfeitosa.catalog.entities;
+package entities;
 
 import java.io.Serializable;
 
